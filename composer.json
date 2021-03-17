@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "twbs/bootstrap": "4.0.0",
+        "geekcom/phpjasper": "^3.3"
+    }
+}

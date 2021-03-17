@@ -1,0 +1,15 @@
+Langkah - langkah menggunakan jasper
+1. Menyiapkan .jrxml yang di buat dengan jaspersoft
+2. Siapkan koneksi di jaspersoft dengan query
+3. setting parameter yang digunakan
+4. Kemudian save
+5. Install phpjasper dengan composer require geekcom/phpjasper
+6. Koding
+    1. use phpjasper
+    2. require dir
+    3. Input, direktori tempat file .jrxml
+    4. Output, direktori tempat menyimpan hasil dari proses & compile file .jrxml
+    5. Set Option (format, dbconnection, dll)
+    6. Jasper compile menghasilkan .jasper
+    7. Jasper proses menghasilkan .pdf and other format
+    8. Code after that adalah untuk mencetak
